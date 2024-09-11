@@ -1,0 +1,10 @@
+:root {
+    --bg-color: #ff00bf;
+    --primary-color: #00ffb3;
+    --secondary-color: #130a0a;
+    --font: "Nunito Sans", sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+}
